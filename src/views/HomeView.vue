@@ -1,6 +1,6 @@
 <template>
   <div id="home">
-    <vedeoPlayer />
+    <!-- <vedeoPlayer /> -->
     <section id="section1">
       <div id="first_div" class="container">
         <img class="main_bg" src="../assets/images/main_bg2.jpg" alt="" />
@@ -359,7 +359,7 @@
 <script setup>
 import { onMounted, onUnmounted, ref } from "vue";
 import Header from "../components/Header.vue";
-import vedeoPlayer from "../components/vedeoPlayer.vue";
+// import vedeoPlayer from "../components/vedeoPlayer.vue";
 const span_tag = ref(null);
 const myInterval = ref(null);
 const myInterval2 = ref(null);

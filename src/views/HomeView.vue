@@ -135,7 +135,7 @@
               controls
               id="video_tag"
               ref="video_tag"
-              src="../assets/video/Промо ролик для IT компании.mp4"
+              src="../assets/video/rolik.mp4"
             ></video>
           </div>
         </div>

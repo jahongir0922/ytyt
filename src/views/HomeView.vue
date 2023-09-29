@@ -131,12 +131,12 @@
             <img src="../assets/images/svg_icon/play.svg" alt="" />
           </div>
           <div ref="video_div" @click="video_pause()" id="video_div">
-            <video
+            <!-- <video
               controls
               id="video_tag"
               ref="video_tag"
               src="../assets/video/rolik.mp4"
-            ></video>
+            ></video> -->
           </div>
         </div>
         <div id="stages">
